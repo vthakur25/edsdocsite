@@ -1,3 +1,3 @@
 export default function decorate(block) {
-  block.textContent="Hello you there, enjoy the doc based authoring";
+  block.textContent="Hello enjoy the doc based authoring";
 }
